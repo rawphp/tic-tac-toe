@@ -12,4 +12,7 @@ composer install
 
 ```bash
 php artisan play
+
+# if built
+./tic-tac-toe
 ```
